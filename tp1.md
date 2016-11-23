@@ -22,3 +22,9 @@ Néanmoins, le système est clairement instable et la majorité des programme co
 Après un redémarrage forcé, le système de lancement ne trouvant pas le fichier "/boot/grub/i386-pc/normal.mod", qui est un module de grub contenant la commande `normal` permettant de lancer GRUB, entre alors en mode de secour.
 
 ![Mode de secour de GRUB](https://raw.githubusercontent.com/vfo1409/fariaoliveira_valentin_linux2/master/img/grubrescue.png "Mode de secour de GRUB")
+
+Après avoir restauré l'instantané qui avait été fait avant le lancement de la commande `rm`, toutes les données se retrouve à nouveau sur le disque virtuelle et la VM démarre normalement.
+
+## Configuration réseau
+
+
