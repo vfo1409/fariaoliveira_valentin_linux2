@@ -11,4 +11,4 @@ Ne faisant partie que de mon propre groupe, je n'ai pas les droits pour utiliser
 
 Après modification du fichier sudoers via `visudo`, l'utilisation de `sudo` avec des commandes réservées au superutilisateur par un utilisateur lambda (ici val) est possible.
 
-![Fichier sudoers modifié](https://raw.githubusercontent.com/vfo1409/fariaoliveira_valentin_linux2/master/img/sudo.png "Fichier sudoers modifié")
+![Fichier sudoers modifié](https://raw.githubusercontent.com/vfo1409/fariaoliveira_valentin_linux2/master/img/sudoers.png "Fichier sudoers modifié")
