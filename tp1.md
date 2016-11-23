@@ -21,4 +21,4 @@ Après avoir effectué un instantanée de la VM "debian_base" et lancé `rm -rf 
 Néanmoins, le système est clairement instable et la majorité des programme comme ls inexistant.
 Après un redémarrage forcé, le système de lancement ne trouvant pas le fichier "/boot/grub/i386-pc/normal.mod", qui est un module de grub contenant la commande `normal` permettant de lancer GRUB, entre alors en mode de secour.
 
-![Mode de secour de GRUB](https://raw.githubusercontent.com/vfo1409/fariaoliveira_valentin_linux2/master/img/sudoers.png "Mode de secour de GRUB")
+![Mode de secour de GRUB](https://raw.githubusercontent.com/vfo1409/fariaoliveira_valentin_linux2/master/img/grubrescue.png "Mode de secour de GRUB")
