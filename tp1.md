@@ -30,9 +30,3 @@ Après avoir restauré l'instantané qui avait été fait avant le lancement de 
 Après s'être connecté à "www.duckduckgo.com" via lynx dans la VM, une tentative de connexion à "www.startpage.com" sur l'hôte échoue. On peut ainsi en déduire qu'une VM ayant un accès réseau par pont dispose d'un accès directe et privilégié à la carte réseau de la machine hôte, empêchant ainsi le système hôte d'accéder à cette carte.
 
 ![VM avec accès réseau par pont](https://raw.githubusercontent.com/vfo1409/fariaoliveira_valentin_linux2/master/img/lynxpont.png "VM avec accès réseau par pont")
-
-
-TP2
-=========
-
-
